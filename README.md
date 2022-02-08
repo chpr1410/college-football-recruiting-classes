@@ -14,3 +14,7 @@ Each player has an individual profile too.  These profiles list biographical inf
 This project evaluates a team's recruiting class based on average number of scholarship offers each of its members has received.  Only scholarship offers from a team in one of the Power Five conferences counts toward the average.  A max number of scholarships can be set when evaluating the team to avoid skewing the average.  
 
 The script calculates the number of players in the class, their average number of offers, and lists the players who have more than 10 scholarship offers.  The end result includes quantitative data points that allow for recruiting classes to be compared for different schools, and/or for different years. 
+
+![Test Image 4](https://github.com/chpr1410/college-football-recruiting-classes/blob/main/example.jpg)
+
+![Test Image 4](https://github.com/chpr1410/college-football-recruiting-classes/blob/main/example2.jpg)
